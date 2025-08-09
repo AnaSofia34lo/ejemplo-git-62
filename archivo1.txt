@@ -1,4 +1,8 @@
 mi primer archivo del respositorio.
 agrego un cambio en rama
+<<<<<<< HEAD
 hola 
 
+=======
+hola
+>>>>>>> rama
